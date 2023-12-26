@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Amatör yazılım ve siber güvenlik
 --------------------------------
 
-Long Description Long Description Long Description Long Description Long Description Long Description Long Description Long Description Long Description Long Description Long Description Long Description Long Description Long Description Long Description Long Description
+Bu sayfamız şu an tasarım aşamasındadır. ileriki zamanlarda yeni çalışmalar eklenerek yapılandırma yapılacaktır. Siber güvenlik, android studio, web tasarım python ve diğer diller ile ilgili tasarımlarımız hizmete sunulacaktır.
 
 * 🌍  I'm based in Bursa
 * ✉️  You can contact me at [zlacin4@hotmail.com](mailto:zlacin4@hotmail.com)
